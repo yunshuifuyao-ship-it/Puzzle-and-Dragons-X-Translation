@@ -1,4 +1,4 @@
-# 3DS-Puzzle-Dragons-X-Translation-Project
+# 3DS-Puzzle-and-Dragons-X-Translation
 - This project was a temporary study; it's uncertain whether it will be taken further and may be abandoned.
 - Because of the text control codes are somewhat complex.
 - Part to be modified：Archive: CPK Images: Timg  Text: MSBT
