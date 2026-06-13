@@ -1,5 +1,6 @@
 # 3DS-Puzzle-and-Dragons-X-Translation
-- This project was a temporary study; it's uncertain whether it will be taken further and may be abandoned.
+- This project was a temporary study and created with the help of AI
+- it's uncertain whether it will be taken further and may be abandoned.
 - Because of the text control codes are somewhat complex.
 - Part to be modified：Archive: CPK，Images: Timg ，Text: MSBT，Video：Moflex
 - The font system principle is simple: just modify 00_rod_db.bin, add character mappings, then generate the corresponding texture (and bold texture). However, it still requires patching ARM instructions, shortening gaps, and rearranging to increase the space for the font.
